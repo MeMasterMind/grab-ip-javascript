@@ -17,4 +17,4 @@ Please help me by giving this repo a ⭐ :)
 
 ---
 
-<p>this is just a code snippet to help people. I am not responsible in any way of it's illicit or unintended use.</p>
+<p>this is just a code snippet to help people and for educational purposes. I am not responsible in any way of it's illicit or unintended use.</p>
