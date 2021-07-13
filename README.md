@@ -13,7 +13,7 @@ fetch('https://api.ipify.org?format=json')
 that's it! easy, no?
 
 ---
-Please help me by giving this repo a ⭐ :)
+Please help me by giving this repo a ⭐
 
 ---
 
