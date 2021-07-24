@@ -1,7 +1,7 @@
 # fetch-ip-javascript
 Easily get anybody's IP address who visits your website with 3 lines of Vanilla browser javascript.
 
-## _"Give it to me!"_
+
 
 ```javascript
 fetch('https://api.ipify.org?format=json')
@@ -10,7 +10,7 @@ fetch('https://api.ipify.org?format=json')
 
 ```
 
-that's it! easy, no?
+that's it! simple, no?
 
 ---
 Please help me by giving this repo a ⭐
