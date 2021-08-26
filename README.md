@@ -10,7 +10,7 @@ fetch('https://api.ipify.org?format=json')
 
 ```
 
-that's it! simple, no?
+that's it!
 
 ---
 Please help me by giving this repo a ⭐
